@@ -1,7 +1,6 @@
 import "dotenv/config";
 import express from "express";
 import cors from "cors";
-import fs = require("fs");
 import { sync } from "./db.ts";
 // approutes
 

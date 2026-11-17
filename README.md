@@ -1,4 +1,4 @@
 # RateMySomething
 
+<img width="756" height="652" alt="image" src="https://github.com/user-attachments/assets/dd967c36-fbd3-4a22-ba7e-eeea43b01a5c" />
 
-<img width="756" height="652" alt="image" src="https://github.com/user-attachments/assets/ed45e3c7-0959-489a-b0d7-a431427211ad" />
